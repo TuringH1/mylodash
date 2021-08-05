@@ -301,6 +301,5 @@ var turingh1 = function() {
         pullAll,
         reverse,
         sortedIndex,
-
     }
 } ()
